@@ -3,27 +3,27 @@ I specialize in both front-end and back-end development using technologies like 
 
 You can view my portfolio at www.VidyashriSoftwaredeveloper.com
 
-#About Me
+# About Me
 
 Full-Stack Web Developer with expertise in both front-end and back-end technologies, capable of building complete, scalable web applications from concept to deployment. Proficient in JavaScript, HTML, CSS, React, Node.js, Express, and databases like MongoDB and SQL. Skilled in creating responsive, user-friendly interfaces while ensuring robust and efficient server-side logic. 
 
 Experienced in version control with Git, API design, and deploying applications on cloud platforms like AWS and Docker. Passionate about learning new technologies and collaborating on innovative projects.
 
-#Technical Skill Stack
+# Technical Skill Stack
 
-#Front End
+# Front End
 
 HTML, CSS, LESS, JavaScript, Typescript, React, React Native, Redux, Axios, JQuery, Bootstrap, Styled Components
 
-#Back End
+# Back End
 
 Node.js, Nodemon, Express, Knex, SQLite, PostgreSQL, JSON Web Tokens Sessions & Cookies
 
-#Computer Science
+# Computer Science
 
 Python, C Algorithms,Data Structures, Graphs Computer, Architecture
 
-#Tools & Deployment
+# Tools & Deployment
 
 Git, Github, NPM, Yarn, Netlify, Heroku
 
