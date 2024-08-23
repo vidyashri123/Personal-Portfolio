@@ -28,6 +28,10 @@ Python, C Algorithms,Data Structures, Graphs Computer, Architecture
 Git, Github, NPM, Yarn, Netlify, Heroku
 
 
+# Here we see the output:
+
+
+
 
 
 
