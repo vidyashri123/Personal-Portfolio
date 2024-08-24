@@ -32,6 +32,10 @@ Git, Github, NPM, Yarn, Netlify, Heroku
 
 
 
+<img width="1213" alt="1" src="https://github.com/user-attachments/assets/694682fa-769e-46fd-a607-4f2bdee49906">
+<img width="1213" alt="2" src="https://github.com/user-attachments/assets/e99aa8ef-f742-4d6e-b15f-58034dbf3469">
+
+
 
 
 
